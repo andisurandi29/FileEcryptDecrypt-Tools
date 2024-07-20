@@ -10,11 +10,11 @@ A simple GUI application to encrypt and decrypt files in a folder using AES encr
 
 ## Download
 
-You can download the executable file from the [Releases](https://github.com/your-username/your-repo/releases) section.
+You can download the executable file from the [Releases](https://github.com/andisurandi29/FileEcryptDecrypt-Tools/releases) section.
 
 ## Usage
 
-1. Download the executable file from the [Releases](https://github.com/your-username/your-repo/releases) section.
+1. Download the executable file from the [Releases](https://github.com/andisurandi29/FileEcryptDecrypt-Tools/releases) section.
 
 2. Run the executable file.
 
